@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite" verbose="1">
+    <test name="Run with Method">
+        <classes>
+            <class name="hientester.com.BT2_AnnotationTestNG.AddCategory_Annotation">
+                <methods>
+                    <include name="testLoginCMS"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
