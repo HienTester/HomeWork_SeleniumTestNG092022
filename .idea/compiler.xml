@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HomeWork_TestNGFrameWork" />
+        <module name="HomeWork_SeleniumTestNG092022" />
       </profile>
     </annotationProcessing>
   </component>
